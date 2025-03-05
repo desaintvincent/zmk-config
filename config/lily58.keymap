@@ -62,8 +62,8 @@
             bindings = <
 &trans     &trans  &trans  &trans   &trans   &trans                     &kp C_PLAY_PAUSE  &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &trans     &kp DEL    &trans
 &kp GRAVE  &trans  &trans  &trans   &trans   &trans                     &trans            &trans             &kp UP_ARROW     &trans     &trans     &kp HOME
-&kp F1     &kp F2  &kp F3  &kp F4   &kp F5   &kp F6                     &trans            &kp LEFT           &kp DOWN         &kp RIGHT  &kp RIGHT  &kp END
-&kp F7     &kp F8  &kp F9  &kp F10  &kp F11  &kp F12  &trans    &trans  &kp KP_PLUS       &kp MINUS          &kp EQUAL        &kp LBKT   &kp RBKT   &kp BSLH
+&trans     &kp F2  &kp F3  &kp F4   &kp F5   &kp F6                     &trans            &kp LEFT           &kp DOWN         &kp RIGHT  &kp RIGHT  &kp END
+&trans     &kp F8  &kp F9  &kp F10  &kp F11  &kp F12  &trans    &trans  &kp KP_PLUS       &kp MINUS          &kp EQUAL        &kp LBKT   &kp RBKT   &kp BSLH
                            &trans   &trans   &trans   &trans    &trans  &trans            &trans             &trans
             >;
 
